@@ -1,0 +1,7 @@
+build/
+.vscode/
+.idea/
+*.o
+*.exe
+*.pdb
+.DS_Store

@@ -1,0 +1,2 @@
+let name = "MiniForge";
+print("Hello, " + name);
